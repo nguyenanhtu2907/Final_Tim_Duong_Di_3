@@ -2,7 +2,7 @@
 Game được xây dựng nhằm mục đích giúp người chơi làm quen, nhân biết với những số tăng liên tục từ 1 đến 20.
 # Công nghệ được sử dụng:
 - GDevelope 5: Xây dựng game và logic game.
-- Figma/Photoshop: Tạo, chỉnh sửa hình ảnh cho game.
+- Figma/Photoshop: Tạo, chỉnh sửa hình ảnh cho game. (https://www.figma.com/file/ztTHBzASc2pzYyq1DmNg3f/Untitled?node-id=7%3A51&viewport=4182%2C-465%2C1.7839360237121582)
 # Cách thay đổi dữ liệu của game:
   Game có thể dễ dàng thay đổi dữ liệu đầu vào:
   - Với hình ảnh của game: khi thay đổi bằng một hình ảnh mới tương tự khác thì game sẽ tự động cập nhật hình ảnh mới.Ví dụ: 
