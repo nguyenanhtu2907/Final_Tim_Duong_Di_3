@@ -5,10 +5,11 @@ Game được xây dựng nhằm mục đích giúp người chơi làm quen, nh
 - Figma/Photoshop: Tạo, chỉnh sửa hình ảnh cho game. (https://www.figma.com/file/ztTHBzASc2pzYyq1DmNg3f/Untitled?node-id=7%3A51&viewport=4182%2C-465%2C1.7839360237121582)
 # Cách thay đổi dữ liệu của game:
   Game có thể dễ dàng thay đổi dữ liệu đầu vào:
-  - Với hình ảnh của game: khi thay đổi bằng một hình ảnh mới tương tự khác thì game sẽ tự động cập nhật hình ảnh mới.Ví dụ: 
-  ![ảnh 1](https://github.com/nguyenanhtu2907/Final_Tim_Duong_Di_3/blob/master/images/1.png) sẽ đổi thành ![ảnh mới](https://github.com/nguyenanhtu2907/Final_Tim_Duong_Di_3/blob/master/images/0.png)
-  - Với các văn bản (text) của game: có thể chỉnh sửa ở trong giao diện của GDevelope5. Ví dụ:
-  
+  - Với hình ảnh của game: khi thay đổi bằng một hình ảnh mới tương tự khác thì game sẽ tự động cập nhật hình ảnh mới. Ví dụ: thay đổi hình ảnh số
+  ![ảnh 1](https://github.com/nguyenanhtu2907/Final_Tim_Duong_Di_3/blob/master/images/1.png) thành kí tự ![ảnh mới](https://github.com/nguyenanhtu2907/Final_Tim_Duong_Di_3/blob/master/images/0.png)
+  - Với các văn bản (text) của game: có thể chỉnh sửa ở trong giao diện của GDevelope5. Ví dụ: thay đổi "YOUR SCORE: " bằng "NEW TEXT: "
+  ![ex_text](https://github.com/nguyenanhtu2907/Final_Tim_Duong_Di_3/blob/master/images/ex_text_img.png) 
+  ![ex_text2](https://github.com/nguyenanhtu2907/Final_Tim_Duong_Di_3/blob/master/images/ex_text_img2.png)
 # Tổng quan về các màn hình chơi game:
   Game gồm 4 màn hình với 2 màn chơi tương ứng là 2 màn hình giới thiệu và 2 màn hình chơi game:
   - Màn hình bắt đầu: Gồm lời giới thiệu, luật chơi.
