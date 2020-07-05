@@ -13,9 +13,12 @@ Game được xây dựng nhằm mục đích giúp người chơi làm quen, nh
 # Tổng quan về các màn hình chơi game:
   Game gồm 4 màn hình với 2 màn chơi tương ứng là 2 màn hình giới thiệu và 2 màn hình chơi game:
   - Màn hình bắt đầu: Gồm lời giới thiệu, luật chơi.
-  
+  ![screen1](https://github.com/nguyenanhtu2907/Final_Tim_Duong_Di_3/blob/master/images/startgame1.png)
   - Màn chơi 1: Hiển thị điểm, các ô số, chức năng âm thanh. Sau khi người chơi tìm được đường đi chính xác, hiệu ứng chúc mừng cùng giao diện kết thúc màn chơi sẽ xuất hiện. Từ đây người chơi có thể chọn chơi tiếp, dừng lại hoặc chơi lại.
-  
+  ![screen1.1](https://github.com/nguyenanhtu2907/Final_Tim_Duong_Di_3/blob/master/images/game1.png)
+  ![screen1.2](https://github.com/nguyenanhtu2907/Final_Tim_Duong_Di_3/blob/master/images/endgame1.png)
   - Màn hình giới thiệu màn 2: Gồm lời gợi ý và nút đi tiếp.
-  
+  ![screen2](https://github.com/nguyenanhtu2907/Final_Tim_Duong_Di_3/blob/master/images/startgame2.png)
   - Màn chơi 2: Tương tự như màn chơi 1 nhưng cơ chế của ô thay đổi, có thêm hình ảnh dấu ? cho mỗi ô số để tăng độ khó cho game. Khi người chơi chiến thắng thì giao diện chúc mừng sẽ xuất hiện, đưa người chơi trở về màn hình ban đầu khi người chơi bấm vào nút "Quay lại".
+  ![screen2.1](https://github.com/nguyenanhtu2907/Final_Tim_Duong_Di_3/blob/master/images/game2.png)
+  ![screen2.2](https://github.com/nguyenanhtu2907/Final_Tim_Duong_Di_3/blob/master/images/endgame2.png)
