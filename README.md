@@ -1,5 +1,5 @@
 # Game Tìm đường đi 3.
-Game được xây dựng nhằm mục đích giúp người chơi làm quen, nhân biết với những số tăng liên tục từ 1 đến 20.
+Game được xây dựng nhằm mục đích giúp người chơi làm quen, nhận biết với những số tăng liên tục từ 1 đến 20.  [Link sản phẩm](https://games.gdevelop-app.com/game-4fe73c3e-b539-4186-98c4-d0dd60add892/index.html)
 ## Công nghệ được sử dụng:
 - GDevelope 5: Xây dựng game và logic game. Việc [cài đặt GDevelope5](https://gdevelop-app.com/download/) sẽ giúp bạn có thể hiểu hơn rõ hơn về sản phẩm.
 - Figma/Photoshop: Tạo, chỉnh sửa và xuất hình ảnh phục vụ việc xây dựng game. [File figma](https://www.figma.com/file/ztTHBzASc2pzYyq1DmNg3f/Untitled?node-id=7%3A51&viewport=4182%2C-465%2C1.7839360237121582)
