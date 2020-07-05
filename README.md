@@ -19,6 +19,6 @@ Game được xây dựng nhằm mục đích giúp người chơi làm quen, nh
   ![screen1.2](https://github.com/nguyenanhtu2907/Final_Tim_Duong_Di_3/blob/master/images/endgame1.png)
   - Màn hình giới thiệu màn 2: Gồm lời gợi ý và nút đi tiếp.
   ![screen2](https://github.com/nguyenanhtu2907/Final_Tim_Duong_Di_3/blob/master/images/startgame2.png)
-  - Màn chơi 2: Tương tự như màn chơi 1 nhưng cơ chế của ô thay đổi, có thêm hình ảnh dấu ? cho mỗi ô số để tăng độ khó cho game. Khi người chơi chiến thắng thì giao diện chúc mừng sẽ xuất hiện, đưa người chơi trở về màn hình ban đầu khi người chơi bấm vào nút "Quay lại".
+  - Màn chơi 2: Tương tự như màn chơi 1 nhưng cơ chế của ô thay đổi, có thêm hình ảnh dấu ? cho mỗi ô số để tăng độ khó cho game. Khi người chơi chiến thắng thì giao diện chúc mừng sẽ xuất hiện, đưa người chơi trở về màn hình ban đầu khi người chơi bấm vào "Quay lại".
   ![screen2.1](https://github.com/nguyenanhtu2907/Final_Tim_Duong_Di_3/blob/master/images/game2.png)
   ![screen2.2](https://github.com/nguyenanhtu2907/Final_Tim_Duong_Di_3/blob/master/images/endgame2.png)
