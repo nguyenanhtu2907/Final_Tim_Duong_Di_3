@@ -1,4 +1,4 @@
-# Final_Tim_Duong_Di_3
+# Game Tìm đường đi 3.
 Game được xây dựng nhằm mục đích giúp người chơi làm quen, nhân biết với những số tăng liên tục từ 1 đến 20.
 # Công nghệ được sử dụng:
 - GDevelope 5: Xây dựng game và logic game.
